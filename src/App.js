@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Burger
+      Burger Builder Application
     </div>
   );
 }
